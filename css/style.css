@@ -1,0 +1,80 @@
+#address {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+h2 {
+    display: inline-flex;
+    justify-content: space-between;
+    font-family: "Garamond", serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#phone-number {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+h5 {
+    display: inline;
+    justify-content: space-between;
+    margin-top: -30px; 
+}
+
+hr {
+    margin-top: 0px;
+}
+
+.heading {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+
+.bold {
+    font-weight: bold;
+}
+
+.sentence {
+    display: inline-flex;
+}
+
+.image {
+    width: 40px;
+    height: auto
+}
+
+.align { 
+
+}
+
+.left {
+
+}
+
+.bullet {
+    margin-top: -10px;
+
+}
+
+div {
+    text-align: center
+}
+
+span {
+    display: inline-flex;
+    font-weight: bold;
+}
+
+#list {
+    margin-top: -40px;
+}
+
+#projects {
+
+}
+
+#tech {
+    padding-top: 30px;
+}
