@@ -1,1 +1,3 @@
-# sampleresume
+# sample-resume
+
+A sample resume
